@@ -1,0 +1,22 @@
+{
+  "name": "jesusconde_angularjs",
+  "description": "Curso de AngularJs",
+  "main": "index.html",
+  "moduleType": [],
+  "keywords": [
+    "angular",
+    "curso"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.4.8"
+  }
+}
